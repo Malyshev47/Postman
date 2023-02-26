@@ -1,4 +1,4 @@
-# **Postman** *Collections and work environment in Postman*
+# **Postman** (Collections and work environment)
 
 # HW_1
 
